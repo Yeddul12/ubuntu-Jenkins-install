@@ -1,0 +1,8 @@
+	@#@#@#%$#@%$#___--- UBUNTU JENKINS INSTALL --- ___ @@##$@@$%$#
+
+	sudo apt-get update -y
+	sud apt-get install git -y
+	sudo apt-get install openjdk-8-jdk -y
+	java -version
+	git --version
+	
